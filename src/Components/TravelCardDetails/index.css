@@ -1,0 +1,37 @@
+.techCardDetailsRoute {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+.image {
+  height: 400px;
+}
+
+.tech-card-container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  margin: 50px;
+}
+
+.tech-card-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 80vw;
+  border: 1.5px solid #e8e8e8;
+  border-radius: 5px;
+  box-shadow: slategray;
+  align-items: flex-start;
+}
+.description-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: flex-start;
+  font-size: 20px;
+}

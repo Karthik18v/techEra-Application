@@ -1,0 +1,34 @@
+.travelListContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: aqua;
+}
+.travelList {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+.travelContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.retry-button {
+  background-color: #4656a1;
+  color: white;
+  padding: 10px;
+  border: 0px;
+}

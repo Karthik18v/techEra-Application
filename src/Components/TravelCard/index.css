@@ -1,0 +1,8 @@
+.travel-card {
+  display: flex;
+  align-items: center;
+  width: 18vw;
+}
+.logo {
+  width: 60px;
+}
